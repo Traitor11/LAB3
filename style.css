@@ -1,0 +1,20 @@
+div>p {
+    color:black
+        
+}
+
+p~p{
+    color:black
+}
+
+.p1{
+    color:yellow
+}
+
+a[target=_blank]{
+    color:red
+}
+
+p[class~="p1"]{
+    color:pink
+}
